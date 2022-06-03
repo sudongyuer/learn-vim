@@ -34,7 +34,7 @@
 
 ## 如何快速移动
 
-1. 进入https://github.com/VSCodeVim/Vim#mac 这个网站
+1. 进入 https://github.com/VSCodeVim/Vim#mac  这个网站
 2. 以此复制如下的命令，在自己电脑的终端中敲下即可（mac）
 
 ```shel

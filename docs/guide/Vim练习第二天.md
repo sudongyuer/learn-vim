@@ -11,7 +11,7 @@
 
 上面提到的改建可以进入`vsode` 的`settings`更改(`command+shift+p`)即可进入，然后把以下圈中的代码填入`setting即可`
 
-<img src="/Users/sudongyu/Library/Application Support/typora-user-images/image-20220603213738356.png" alt="image-20220603213738356" style="zoom:33%;" />
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h2ve3hhc4kj21380u0wk5.jpg" alt="image-20220603213738356" style="zoom:33%;" />
 
 ## 插入命令
 
