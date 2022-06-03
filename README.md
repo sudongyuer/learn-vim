@@ -1,6 +1,6 @@
 # Vim 通关小册
 <p align="center">
-<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h2u8iczlppj20ly0v6die.jpg" height="500">
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h2veexnmslj20m00uyq5d.jpg" height="500">
 </p>
 
 ## 在线地址
