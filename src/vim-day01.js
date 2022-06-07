@@ -49,3 +49,4 @@ djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
 
 
 djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
+const a = {}
