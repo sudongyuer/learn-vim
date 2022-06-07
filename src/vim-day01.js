@@ -49,4 +49,18 @@ djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
 
 
 djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
-const a = {}
+const a = {
+  let b = 123 
+}
+
+<div>123</div>
+`123123`
+
+this is a juzi.
+this is a juzi!
+this is a juzi?
+this is a juzi
+function fn (_name, age){
+  return _name + age
+}
+entire
