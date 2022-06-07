@@ -19,6 +19,11 @@ jobs:
       run: npm i pnpm@latest -g
     - name: install dependencies
       run: pnpm install
+    - name: setup git config
+      run: |
+        # setup the username and email. I tend to use 'GitHub Actions Bot' with no email by default
+        git config user.name "GitHub Actions Bot"
+        git config user.email "<>"
     - name: Build and Deploy
       run: sh ./deploy.sh
     - run: echo "🍏 This job's status is ${{ job.status }}."
