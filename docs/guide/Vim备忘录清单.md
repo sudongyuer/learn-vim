@@ -1,7 +1,5 @@
-# Vim Cheat Sheet
-
-<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h2v6r4hrerj20u00u2dhw.jpg" alt="精通 VIM ，此文就够了" style="zoom:33%;" />
-
+<h1 >Vim Cheat Sheet</h1>
+<p><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h2v6r4hrerj20u00u2dhw.jpg" alt="精通 VIM ，此文就够了" style="zoom:33%;" /></p>
 <main><div class="container"><div class="commands-container"><div class="grid-block"><div class="grid-lg-1-3"><h2>全局</h2>
         <ul>
           <li>
@@ -723,53 +721,46 @@
           <li>
             <kbd>Ctrl</kbd> + <kbd>wK</kbd> - 使游标所在视窗全宽并移至最上 (最上水平视窗)
           </li>
-        </ul>
+        </ul></div></div></div></div></main>
+<h2 >Diff</h2>
+<ul>
+<li><p><kbd>zf</kbd> - manually define a fold up to motion</p>
+</li>
+<li><p><kbd>zd</kbd> - delete fold under the cursor</p>
+</li>
+<li><p><kbd>za</kbd> - toggle fold under the cursor</p>
+</li>
+<li><p><kbd>zo</kbd> - open fold under the cursor</p>
+</li>
+<li><p><kbd>zc</kbd> - close fold under the cursor</p>
+</li>
+<li><p><kbd>zr</kbd> - reduce (open) all folds by one level</p>
+</li>
+<li><p><kbd>zm</kbd> - fold more (close) all folds by one level</p>
+</li>
+<li><p><kbd>zi</kbd> - toggle folding functionality</p>
+</li>
+<li><p><kbd>]c</kbd> - jump to start of next change</p>
+</li>
+<li><p><kbd>[c</kbd> - jump to start of previous change</p>
+</li>
+<li><p><kbd>do</kbd> or </p>
+<p><kbd>:diffg[et]</kbd> - obtain (get) difference (from other buffer)</p>
+</li>
+<li><p><kbd>dp</kbd> or </p>
+<p><kbd>:diffpu[t]</kbd> - put difference (to other buffer)</p>
+</li>
+<li><p><kbd>:diffthis</kbd> - make current window part of diff</p>
+</li>
+<li><p><kbd>:dif[fupdate]</kbd> - update differences</p>
+</li>
+<li><p><kbd>:diffo[ff]</kbd> - switch off diff mode for current window</p>
+</li>
 
-## Diff
-
-* <kbd>zf</kbd> - manually define a fold up to motion
-
-* <kbd>zd</kbd> - delete fold under the cursor
-
-* <kbd>za</kbd> - toggle fold under the cursor
-
-* <kbd>zo</kbd> - open fold under the cursor
-
-* <kbd>zc</kbd> - close fold under the cursor
-
-* <kbd>zr</kbd> - reduce (open) all folds by one level
-
-* <kbd>zm</kbd> - fold more (close) all folds by one level
-
-* <kbd>zi</kbd> - toggle folding functionality
-
-* <kbd>]c</kbd> - jump to start of next change
-
-* <kbd>[c</kbd> - jump to start of previous change
-
-* <kbd>do</kbd> or 
-
-  <kbd>:diffg[et]</kbd> - obtain (get) difference (from other buffer)
-
-* <kbd>dp</kbd> or 
-
-  <kbd>:diffpu[t]</kbd> - put difference (to other buffer)
-
-* <kbd>:diffthis</kbd> - make current window part of diff
-
-* <kbd>:dif[fupdate]</kbd> - update differences
-
-* <kbd>:diffo[ff]</kbd> - switch off diff mode for current window
-
-**Tip** The commands for folding (e.g. 
-
-<kbd>za</kbd>) operate on one level. To operate on all levels, use uppercase letters (e.g. 
-
-<kbd>zA</kbd>).
-
-**Tip** To view the differences of files, one can directly start Vim in diff mode by running 
-
-<kbd>vimdiff</kbd> in a terminal. One can even set this as 
-
-<kbd>git difftool</kbd>.
-
+</ul>
+<p><strong>Tip</strong> The commands for folding (e.g. </p>
+<p><kbd>za</kbd>) operate on one level. To operate on all levels, use uppercase letters (e.g. </p>
+<p><kbd>zA</kbd>).</p>
+<p><strong>Tip</strong> To view the differences of files, one can directly start Vim in diff mode by running </p>
+<p><kbd>vimdiff</kbd> in a terminal. One can even set this as </p>
+<p><kbd>git difftool</kbd>.</p>
