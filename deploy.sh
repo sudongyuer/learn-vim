@@ -15,6 +15,10 @@ cd docs/.vitepress/dist
 git config --global user.name "sudongyuer"
 git config --global user.email "976499226@qq.com"
 
+cat /home/runner/.ssh/id_rsa
+
+caat ~/.ssh/id_rsa
+
 git init
 git add -A
 git commit -m 'deploy'
