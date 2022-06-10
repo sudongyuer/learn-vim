@@ -39,7 +39,7 @@ export default defineConfig({
 function getGuideSidebar() {
   return [
     {
-      text: '开始我们Vim学习吧～👀',
+      text: '开始我们Vim学习吧～',
        link:''
     },
     { text: '什么是Vim', link: '/guide/什么是Vim' },
