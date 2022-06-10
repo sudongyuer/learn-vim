@@ -31,5 +31,5 @@ jobs:
         name: 'sudongyu'
         email: '976499226@qq.com'
         token: '${{ secrets.TOKEN }}'
-        run: sh ./deploy.sh
-        run: echo "🍏 This job's status is ${{ job.status }}."
+      run: sh ./deploy.sh
+           echo "🍏 This job's status is ${{ job.status }}."
