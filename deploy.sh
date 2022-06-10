@@ -12,6 +12,9 @@ cd docs/.vitepress/dist
 # if you are deploying to a custom domain
 # echo 'www.example.com' > CNAME
 
+git config --global user.name "sudongyu"
+git config --global user.email "976499226@qq.com"
+
 git init
 git add -A
 git commit -m 'deploy'
