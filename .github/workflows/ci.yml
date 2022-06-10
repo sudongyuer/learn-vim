@@ -19,16 +19,10 @@ jobs:
       run: npm i pnpm@latest -g
     - name: install dependencies
       run: pnpm install
-    - name: Setup Deploy Private Key
+    - name: Build and Deploy
+      uses: JamesIves/github-pages-deploy-action@master
       env:
-        DEPLOY_PRIVATE_KEY: ${{ secrets.DEPLOY_PRIVATE_KEY }}
-      run: |
-        mkdir -p ~/.ssh/
-        echo "$DEPLOY_PRIVATE_KEY" > ~/.ssh/id_rsa 
-        chmod 600 ~/.ssh/id_rsa
-        ssh-keyscan github.com >> ~/.ssh/known_hosts
-    - name: setup git config
-      run: |
-        git config --global user.name "sudongyu"
-        git config --global user.email "976499226@qq.com"
-        sh ./deploy.sh
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        BRANCH: gh-pages-deploy
+        FOLDER: docs/.vitepress/dist
+        BUILD_SCRIPT: pnpm run docs:build
