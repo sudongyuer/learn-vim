@@ -12,7 +12,7 @@ cd docs/.vitepress/dist
 # if you are deploying to a custom domain
 # echo 'www.example.com' > CNAME
 
-git config --global user.name "sudongyu"
+git config --global user.name "sudongyuer"
 git config --global user.email "976499226@qq.com"
 
 git init
@@ -23,7 +23,7 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
- git push -f git@github.com:sudongyuer/learn-vim.github.io.git master:gh-pages-deploy
+ git push -f git@github.com:sudongyuer/learn-vim.git master:gh-pages-deploy
 
  cd ../../../ && rm -rf docs/.vitepress/dist
 
