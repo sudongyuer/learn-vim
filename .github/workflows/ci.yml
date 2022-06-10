@@ -20,7 +20,7 @@ jobs:
     - name: install dependencies
       run: pnpm install
     - name: Build and Deploy
-      uses: JamesIves/github-pages-deploy-action@master
+      uses: JamesIves/github-pages-deploy-action@v4.3.3
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         BRANCH: gh-pages-deploy
