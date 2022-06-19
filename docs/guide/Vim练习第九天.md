@@ -26,6 +26,8 @@
 
 改键
 
+![image-20220619232639196](https://tva1.sinaimg.cn/large/e6c9d24egy1h3dyxmjgwjj20s20j00u3.jpg)
+
 ![image-20220619223956804](https://tva1.sinaimg.cn/large/e6c9d24egy1h3dxl0yrskj21140oc763.jpg)
 
 改建完成后可以用`s+任意两个字符`去搜索想去的位置并跳转，
