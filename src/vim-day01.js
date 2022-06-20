@@ -31,7 +31,7 @@ djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
 
 
 
-sdasdadssdasdsdasdadasjkjkjk
+sdasdadssdasdsdatdadasjkjkjk
 
 
 
@@ -39,26 +39,29 @@ sdasdadssdasdsdasdadasjkjkjk
 
 
 
-const aa = 11
-const abc = 2
+sudongyu aa = 11
+sudongyu abc = 2
 
 kkkkkkkkkkkkkkkk            
 
+123;123;123;123;
+djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkkl;123;
 
-djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
 
-
-djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk;
-const a = {
-  let b = 123 
+djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk;l;l;l;l;l;l;
+sudongyu a = {
+  123 b = 123 
 }
 
-<di>123</di>
+123 
+123
+123
+<di123</di>
 `123123`
 
 this is a juzi.
 this is a juzi!
-this is a juzi?
+this is a juzi?;;
 this is a juzi
 function fn (_name, age){
   return _name + age
