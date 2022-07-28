@@ -38,32 +38,52 @@ sdasdadssdasdsdatdadasjkjkjk
 
 
 
+djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
+djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
+djkjskdjalksjdkajsldkasdjlajsdklja1sjdlkajskldjalksjdajskkjdjklajsdklajsdkk
+djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
 
-sudongyu aa = 11
+sudongyu aa = 1nihao
 sudongyu abc = 2
 
 kkkkkkkkkkkkkkkk            
+kkkkkkkkkkkkkkkk            
+kkkkkkkkkkkkkkkk            
+kkkkkkkkkkkkkkkk            
+djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
+123;123;12;123s
+djkjskdjalksjdkajsldkasdjlajsdkljaksasdas123jdlkajskldjalksjdajskkjdjklajsdklajsdkkl;123;
 
-123;123;123;123;
-djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkkl;123;
 
+
+
+
+
+djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
+djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
+
+djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
 
 djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk;l;l;l;l;l;l;
-sudongyu a = {
+sudongyu hello
   123 b = 123 
 }
-
+const a = helloWorldnihao
 123 
 123
 123
-<di123</di>
+ <di123</di>
 `123123`
 
 this is a juzi.
 this is a juzi!
-this is a juzi?;;
-this is a juzi
-function fn (_name, age){
+this is 1a2 sudongyuujuzi?;;
+this is 1a2 juzi?;;
+this is 1a2 juzi?;;
+function 11fn234 (_name, ae){
   return _name + age
 }
 entire
+const a = 'hello world'
+const a = 'hello world'
+const uname = 'nihao'
