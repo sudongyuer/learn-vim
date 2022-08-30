@@ -3,9 +3,19 @@ djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkks
 djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
 djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
 djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
-djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkkdjkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkkdjkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
-djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
-djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
+sssssssskljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkkdjkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkkdjkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
+
+sssonst uname = 'zhangs'
+sssonst age =18
+ssskkkkkkkkkkkkkkk            
+ssskkkkkksssssssssskkk            
+ssskkhellsssssssssskkk            
+ssskkkkkksssssssssskkk            
+sssjkjskdssssssssssdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
+sssello;123;12;123s
+sssjkjskdjalksjdkajsldkasdjlajsdkljaksasdas123jdlkajskldjalksjdajskkjdjklajsdklajsdkkl;123;
+sssjkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
+sssjkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
 
 
 
@@ -13,8 +23,8 @@ djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
 ishjdahsjkdhjsakhdjkahsdhajkshdjhasjdaksdhkahsdjkhajksdhjashdkaskhdkahskdhasdhkashdk
 
 defineAsyncComponentd
-asd
-asd
+
+const abc = 123
 a
 d
 
@@ -26,36 +36,25 @@ djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
 djkjskdjalksjd ajsldkasdjlajsdkljaksjdlkajskldjjalsdasdksjdajskkjdjklajsdklajsdkkd
 djkjskdjalkssjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkksiasdadasdasd
 djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
+djkjskdjalksjdkajsldkasdjljskldjalksjdajskkjdjklajsdklajsdkk
 djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
-djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
 
 
 
-sdasdadssdasdsdatdadasjkjkjk
+sdasdadssdasdsdatdadasjkjk
 
 
 
 
 
 
-djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
+k
 djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
 djkjskdjalksjdkajsldkasdjlajsdklja1sjdlkajskldjalksjdajskkjdjklajsdklajsdkk
 djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
 
 sudongyu aa = 1nihao
 sudongyu abc = 2
-
-kkkkkkkkkkkkkkkk            
-kkkkkkkkkkkkkkkk            
-kkkkkkkkkkkkkkkk            
-kkkkkkkkkkkkkkkk            
-djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
-hello;123;12;123s
-djkjskdjalksjdkajsldkasdjlajsdkljaksasdas123jdlkajskldjalksjdajskkjdjklajsdklajsdkkl;123;
-djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
-djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
-djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
 
 djkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk;l;l;l;l;l;l;
 sudongyu hello
@@ -73,10 +72,10 @@ this is a juzi!
 this is 1a2 sudongyuujuzi?;;
 this is 1a2 juzi?;;
 this is 1a2 juzi?;;
-function 11fn234 (_name, ae){
+function 11(_name, ae){
   return _name + age
 }
 entire
-const a = 'hello world'
-const a = 'hello world'
+iconst a = 'hello world';
+const a = 'hello worldi';
 const uname = 'nihao'
