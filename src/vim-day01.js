@@ -14,15 +14,15 @@ ssskkkkkksssssssssskkk
 sssjkjskdssssssssssdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
 sssello;123;12;123s
 sssjkjskdjalksjdkajsldkasdjlajsdkljaksasdas123jdlkajskldjalksjdajskkjdjklajsdklajsdkkl;123;
+sssjkjskdjalkjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
 sssjkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
-sssjkjskdjalksjdkajsldkasdjlajsdkljaksjdlkajskldjalksjdajskkjdjklajsdklajsdkk
 
 
 
-
+const arr = []
 ishjdahsjkdhjsakhdjkahsdhajkshdjhasjdaksdhkahsdjkhajksdhjashdkaskhdkahskdhasdhkashdk
 
-defineAsyncComponentd
+defineAsyncComponenGtd
 
 const abc = 123
 a
@@ -71,6 +71,11 @@ function 11(_name, ae){
   return _name + age
 }
 entire
-iconst a = 'hello world';
+const a = '';
 const a = 'hello worldi';
 const uname = 'nihao'
+function main(name,age){
+const a = 'hello worldi';
+}
+
+<div>12312</div>
