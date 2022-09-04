@@ -46,7 +46,7 @@ export function hasGlobalInstallation(pm: PM, cache: Map<any, any>): Promise<boo
 }
 
 export function getTypeofLockFile(cwd = '.', cache: Map<any, any>): Promise<PM | null> {
-  const key = `lockfile_${cwd}`
+  const key = `lockfile_${}`
   if (cache.has(key))
     return Promise.resolve(cache.get(key))
 
@@ -71,7 +71,7 @@ export function getTypeofLockFile(cwd = '.', cache: Map<any, any>): Promise<PM |
   })
 }
 
-export async function getPackManagerVersion(pm: PM = 'npm') {
+export async function gegerVersion(pm: PM = 'npm') {
   return exec_async(pm || 'npm', '--version').then(stdout => stdout)
 }
 
