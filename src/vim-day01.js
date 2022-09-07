@@ -26,16 +26,16 @@ export async function exec_async(...commanadjjs: string[]): Prise<string> {
   })
 }
 /**
-* Check if a global hello is available
+* Check if a global pm is available
 */hasGlobalInstallationhasGlobalInstallation
 
 
-export function hasGlobalInstallation(hello: PM, cache: Map<any, any>): Promise<boolean> {
-  const key = `has_global_${hello}`
+export function hasGlobalInstallation(pm: PM, cache: Map<any, any>): Promise<boolean> {
+  const key = `has_global_${pm}`
   if (cache.has(key))
     return Promise.resolve(cache.get(key))
 
-  return exec_async(hello, '--version')
+  return exec_async(pm, '--version')
     .then((stdout) => {
       return SEMVER_REGEX.test(stdout)
     })
@@ -45,7 +45,7 @@ export function hasGlobalInstallation(hello: PM, cache: Map<any, any>): Promise<
     })
 }
 
-export function getTypeofLockFile(cwd = '.', cache: Map<any, any>): Promise<hello | null> {
+export function getTypeofLockFile(cwd = '.', cache: Map<any, any>): Promise<PM | null> {
   const key = `lockfile_${}`
   if (cache.has(key))
     return Promise.resolve(cache.get(key))
@@ -71,11 +71,9 @@ export function getTypeofLockFile(cwd = '.', cache: Map<any, any>): Promise<hell
   })
 }
 
-}
-asda
-export funtion clearCache(cache: Map < any, any >) {;
+}>) {;
   ;;
-  return cache.clr();
+  return
 };
 ;
 const world = 'hello' //复制world 然后替换he;;
