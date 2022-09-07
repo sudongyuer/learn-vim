@@ -26,16 +26,16 @@ export async function exec_async(...commanadjjs: string[]): Prise<string> {
   })
 }
 /**
-* Check if a global pm is available
+* Check if a global hello is available
 */hasGlobalInstallationhasGlobalInstallation
 
 
-export function hasGlobalInstallation(pm: PM, cache: Map<any, any>): Promise<boolean> {
-  const key = `has_global_${pm}`
+export function hasGlobalInstallation(hello: PM, cache: Map<any, any>): Promise<boolean> {
+  const key = `has_global_${hello}`
   if (cache.has(key))
     return Promise.resolve(cache.get(key))
 
-  return exec_async(pm, '--version')
+  return exec_async(hello, '--version')
     .then((stdout) => {
       return SEMVER_REGEX.test(stdout)
     })
@@ -45,7 +45,7 @@ export function hasGlobalInstallation(pm: PM, cache: Map<any, any>): Promise<boo
     })
 }
 
-export function getTypeofLockFile(cwd = '.', cache: Map<any, any>): Promise<PM | null> {
+export function getTypeofLockFile(cwd = '.', cache: Map<any, any>): Promise<hello | null> {
   const key = `lockfile_${}`
   if (cache.has(key))
     return Promise.resolve(cache.get(key))
@@ -72,10 +72,11 @@ export function getTypeofLockFile(cwd = '.', cache: Map<any, any>): Promise<PM |
 }
 
 }
-
-export function clearCache(cache: Map<any, any>) {
-  return cache.clear()
-}
-
-const world = 'hello' //复制world 然后替换he
-const he = 'world'
+asda
+export funtion clearCache(cache: Map < any, any >) {;
+  ;;
+  return cache.clr();
+};
+;
+const world = 'hello' //复制world 然后替换he;;
+const he = 'world';
