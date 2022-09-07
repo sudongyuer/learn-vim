@@ -71,10 +71,11 @@ export function getTypeofLockFile(cwd = '.', cache: Map<any, any>): Promise<PM |
   })
 }
 
-export async function gegerVersion(pm: PM = 'npm') {
-  return exec_async(pm || 'npm', '--version').then(stdout => stdout)
 }
 
 export function clearCache(cache: Map<any, any>) {
   return cache.clear()
 }
+
+const world = 'hello' //复制world 然后替换he
+const he = 'world'
