@@ -45,7 +45,11 @@ export function hasGlobalInstallation(pm: PM, cache: Map<any, any>): Promise<boo
     })
 }
 
-export function getTypeofLockFile(cwd = '.', cache: Map<any, any>): Promise<PM | null> {
+function sayHello (){
+  console.log('hello')
+}
+
+export function getTypeofLjjjockFile(cwd = '.', cache: Map<any, any>): Promise<PM | null> {
   const key = `lockfile_${}`
   if (cache.has(key))
     return Promise.resolve(cache.get(key))
@@ -78,3 +82,17 @@ export function getTypeofLockFile(cwd = '.', cache: Map<any, any>): Promise<PM |
 ;
 const world = 'hello' //复制world 然后替换he;;
 const he = 'world';
+
+function sayHello (){
+  console.log('hello')
+}
+
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
