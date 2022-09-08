@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as r}from"./app.7b9c0287.js";const v='{"title":"\u4EC0\u4E48\u662FVim","description":"","frontmatter":{},"headers":[],"relativePath":"guide/\u4EC0\u4E48\u662FVim.md","lastUpdated":1654259492000}',i={},o=r("",11),p=[o];function n(s,_,c,m,h,l){return a(),t("div",null,p)}var g=e(i,[["render",n]]);export{v as __pageData,g as default};
