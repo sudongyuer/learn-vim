@@ -46,7 +46,7 @@ export function hasGlobalInstallation(pm: PM, cache: Map<any, any>): Promise<boo
 }
 
 function sayHello (){
-  console.log('hello')
+  console.log('Hello')
 }
 
 export function getTypeofLjjjockFile(cwd = '.', cache: Map<any, any>): Promise<PM | null> {
@@ -80,7 +80,7 @@ export function getTypeofLjjjockFile(cwd = '.', cache: Map<any, any>): Promise<P
   return
 };
 ;
-const world = 'hello' //复制world 然后替换he;;
+const world = 'Hello' //复制world 然后替换he;;
 const he = 'world';
 
 function sayHello (){
@@ -96,3 +96,8 @@ sayHello()
 sayHello()
 sayHello()
 sayHello()
+
+vnode
+vnode 
+vnode 
+Hello vnode textvnode
