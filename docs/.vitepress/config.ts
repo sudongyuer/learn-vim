@@ -61,5 +61,6 @@ function getGuideSidebar() {
     { text: 'Vim练习第十四天', link: '/guide/Vim练习第十四天'}, 
     { text: 'Vim练习第十五天', link: '/guide/Vim练习第十五天'}, 
     { text: 'Vim练习第十六天', link: '/guide/Vim练习第十六天'}, 
+    { text: 'Vim练习第十七天', link: '/guide/Vim练习第十七天'}, 
   ]
 }
