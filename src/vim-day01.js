@@ -120,3 +120,4 @@ const obj = {
   play
 }
 ^guiw
+^w
