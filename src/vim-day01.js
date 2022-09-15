@@ -102,3 +102,8 @@ vnode
 vnode 
 vnode 
 Hello vnode textvnode
+
+const obj = {
+  name: 'hello',
+  play
+}
