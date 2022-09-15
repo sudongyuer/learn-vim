@@ -90,7 +90,7 @@ const arr = [1,2,3,4,5,6,7,8,9,10]
 
 sayhello()
 SAYHELLO()
-SAYHELLO()
+sayhello() 
 sayhello()
 SAYHELLO()
 SAYHELLO()
@@ -98,10 +98,22 @@ sayhello()
 SAYHELLO()
 SAYHELLO()
 
+const obj = {
+  name: 'hello',
+  play:function(){
+    console.log(this.name)
+  }
+}
+
+const obj2 = {
+  name:'wangwu'
+}
+obj2.play = obj.play
+obj2.play()
 vnode
 vnode 
 vnode 
-Hello vnode textvnode
+hello vnode textvnode
 
 const obj = {
   name: 'hello',
