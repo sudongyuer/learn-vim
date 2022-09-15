@@ -88,15 +88,15 @@ function sayHello (){
 }
 const arr = [1,2,3,4,5,6,7,8,9,10]
 
-sayHello()
-sayHello()
-sayHello()
-sayHello()
-sayHello()
-sayHello()
-sayHello()
-sayHello()
-sayHello()
+sayhello()
+sayhello()
+sayhello()
+sayhello()
+sayhello()
+sayhello()
+sayhello()
+sayhello()
+sayhello()
 
 vnode
 vnode 
