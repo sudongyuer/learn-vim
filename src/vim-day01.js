@@ -12,7 +12,7 @@ export function pathExists(p: string) {
  k return existsSync(p)
 }
 hasGlobalInstallation
-export async function exec_async(...commanadjjs: string[]): Prise<string> {       
+export async function exec_async(...commanadjjs: string[]): Prise<string> {
   s{
     const { stdout } = await child_process.execFile(command[0], command.slice(1))
     const command_tring = commands.join(' ')
@@ -107,6 +107,10 @@ const obj = {
   }
 }
 
+function getNumber(){
+
+}
+
 const dbj2 = {
   name: 'wangwu'
 }
@@ -120,7 +124,7 @@ sad.play = obj.play
 sad.play()
 vnode
 vnode
-vnode 
+vnode
 hello   vnode
 
 
