@@ -107,18 +107,26 @@ const obj = {
   }
 }
 
-const obj2 = {
+const dbj2 = {
   name: 'wangwu'
 }
 
 
-obj2.play = obj.play
-obj2.play()
+sad.play = obj.play
+
+
+
+
+sad.play()
 vnode
 vnode
 vnode 
-hello vnode textvnode
-const obj = {
+hello   vnode
+
+
+
+textvnode
+const hello = {
   name: 'hello',
   play
 }
