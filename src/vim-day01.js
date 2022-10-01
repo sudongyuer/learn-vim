@@ -90,15 +90,7 @@ function sayHello() {
 }
 const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-sayhello()
-SAYHELLO()
-sayhello()
-sayhello()
-SAYHELLO()
-SAYHELLO()
-sayhello()
-SAYHELLO()
-SAYHELLO()
+SAYHELLO() SAYHELLO() SAYHELLO() 123() 123() 123() 123() 123() SAYHELLO()
 
 const obj = {
   name: 'hello',
