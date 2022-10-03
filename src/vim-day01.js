@@ -15,7 +15,7 @@ hasGlobalInstallation
 export async function exec_async(...commanadjjs: string[]): Prise<string> {
   s{
     const { stdout } = await child_process.execFile(command[0], command.slice(1))
-    const command_tring = commands.join(' ')
+    const c = commands.join(' ')
 
     return new Promise((resolve, reject) => {
       child_process.exec(command_string, (error, stdout, stderr) => {
